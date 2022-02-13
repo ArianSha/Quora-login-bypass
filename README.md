@@ -3,8 +3,8 @@ This simple script will bypass the Quora login popup, which is forced upon users
 
 
 <h2>Steps</h2>
-1. Download the scriptManager extension https://www.tampermonkey.net>. </br>
-2. Install the script https://openuserjs.org/scripts/ArianSha/Quora_login_bypass. </br> <br>
+1. Download the scriptManager extension https://www.tampermonkey.net </br>
+2. Install the script https://openuserjs.org/scripts/ArianSha/Quora_login_bypass </br> <br>
 
 And thats it!
 
